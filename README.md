@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Righteous 👋
 
-<!--
-**RighteousW/RighteousW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Software Engineer  
+💡 Interested in Open Source, Linux, and AI-driven applications  
+🌍 Based in Malawi  
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+### Sign Avatar
+A system that translates sign language into a visual avatar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Built with: Python, Computer Vision, ML
+- Focus: Accessibility and human-computer interaction
+- Repo: github.com/RighteousW/sign_avatar
+
+## 🛠️ Tech Stack
+- Languages: Python, Java, Rust, Javascript
+- Tools: Git, Linux, Docker
+- Interests: Open Source, Systems Programming
+
+## 📫 Contact
+- Email: rjwasambo@gmail.com
