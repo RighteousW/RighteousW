@@ -10,7 +10,8 @@ A system that translates sign language into a visual avatar.
 
 - Built with: Python, Computer Vision, ML
 - Focus: Accessibility and human-computer interaction
-- Repo: github.com/RighteousW/sign_avatar
+- Sure thing\! Here is the link formatted in Markdown:
+- Repo: [sign\_avatar](https://github.com/RighteousW/sign_avatar)
 
 ## 🛠️ Tech Stack
 - Languages: Python, Java, Rust, Javascript
