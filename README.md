@@ -1,11 +1,13 @@
 # Righteous Wasambo
 
-Computer Science (Honours) graduate from the University of Namibia (Upper Second Class, 2:1), based in Malawi. I build software across backend systems, Linux infrastructure, and AI-assisted accessibility, with an emphasis on practical tools and well-documented engineering.
+**Software Engineer · Founder of [Jollir](https://jollir.com)**
+
+I'm a Computer Science (Honours) graduate from the University of Namibia (Upper Second Class, 2:1), based in Malawi. I build practical software across backend systems, Linux infrastructure, web applications and computer vision.
 
 ## Selected projects
 
 ### [Sign Avatar](https://github.com/RighteousW/sign_avatar)
-Honours research prototype exploring bidirectional speech and sign-language communication for healthcare accessibility. Combines computer vision, speech processing, language components, and avatar visualization; broader support for Namibian Sign Language remains limited by available datasets.
+Honours research prototype exploring communication between spoken English and Namibian Sign Language in healthcare. It combines speech processing, computer vision and avatar visualisation. Sign recognition remains experimental and is limited by the available datasets.
 
 **Stack:** Python, OpenCV, PyQt6, machine learning
 
@@ -24,6 +26,12 @@ A Trie-based text indexer supporting exact and prefix search, persistent indexes
 
 **Stack:** Python, data structures and algorithms
 
+## Jollir
+
+I founded [Jollir](https://jollir.com), a digital consulting and software studio that helps businesses build better websites, simplify operations and develop practical software. Our work includes digital consulting, website development, business software and ongoing improvement.
+
+[Visit Jollir](https://jollir.com) · [GitHub Organization](https://github.com/Jollir)
+
 ## Current interests
 
 - Backend development, APIs, databases, and distributed systems
@@ -35,11 +43,13 @@ A Trie-based text indexer supporting exact and prefix search, persistent indexes
 
 - **Languages:** Python, C, C#, Java, Rust, JavaScript
 - **Web and backend:** FastAPI, Flask, Node.js, React, Vue, Astro, REST APIs
-- **Data:** SQLite, MySQL, PostgreSQL, MongoDB, SQL and NoSQL
+- **Data:** SQLite, MySQL, PostgreSQL, MongoDB
 - **Systems and tools:** Linux, systemd, Git, Docker, CI/CD
 - **Computer vision:** OpenCV, PyTorch, model evaluation and data annotation
 
 ## Contact
 
+- **GitHub:** [RighteousW](https://github.com/RighteousW)
+- **LinkedIn:** [Righteous Wasambo](https://www.linkedin.com/in/righteouswasambo/)
+- **Jollir:** [jollir.com](https://jollir.com)
 - **Email:** [rjwasambo@gmail.com](mailto:rjwasambo@gmail.com)
-- **LinkedIn:** [righteous-wasambo](https://www.linkedin.com/in/righteous-wasambo)
