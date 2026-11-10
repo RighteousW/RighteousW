@@ -7,7 +7,7 @@ I'm a Computer Science (Honours) graduate from the University of Namibia (Upper 
 ## Selected projects
 
 ### [Sign Avatar](https://github.com/RighteousW/sign_avatar)
-Honours research prototype exploring communication between spoken English and Namibian Sign Language in healthcare. It combines speech processing, computer vision and avatar visualisation. Sign recognition remains experimental and is limited by the available datasets.
+Honours research prototype exploring speech and sign-language communication for healthcare accessibility, with a focus on future Namibian Sign Language support. It combines speech processing, computer vision and avatar-based visualisation. Sign recognition remains experimental, particularly for continuous signing and datasets with limited coverage.
 
 **Stack:** Python, OpenCV, PyQt6, machine learning
 
